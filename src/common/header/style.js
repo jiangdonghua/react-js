@@ -101,7 +101,7 @@ export const Button = styled.div`
 export const SearchWrapper = styled.div`
   position: relative;
   float: left;
-  .iconfont{
+  .zoom{
       position: absolute;
       right: 5px;
       bottom: 5px;
@@ -115,6 +115,7 @@ export const SearchWrapper = styled.div`
       right: 5px;
       }
   }
+ 
 `;
 export const SearchInfo = styled.div`
   position: absolute;
@@ -130,6 +131,15 @@ export const SearchInfoTitle=styled.div`
   line-height: 20px;
   font-size: 14px;
   color: #969696;
+  .spin{
+      display: block;
+      float: left;
+      margin-right: 2px;
+      font-size: 12px;
+      transition: all .2s ease-in;    
+      transform-origin: center center;
+  
+  }
 `;
 export const SearchInfoSwitch=styled.div`
   float: right;
