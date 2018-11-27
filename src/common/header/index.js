@@ -1,9 +1,11 @@
 import React, {Component} from 'react';
 import {connect} from 'react-redux'
 import {CSSTransition} from 'react-transition-group';
-import {actionCreators} from './store'
+import {actionCreators} from './store';
+import {Link} from 'react-router-dom';
 import {
     HeaderWrapper,
+    Layout,
     Logo,
     Nav,
     NavItem,
@@ -61,13 +63,14 @@ class Header extends Component {
         const {focused, handleInputFocus, handleInputBlur,list} = this.props;
         return (
             <HeaderWrapper>
-                <Logo/>
-                <Nav>
+                <Layout className='cClear'>
+                <Link to='/'><Logo/></Link>
+                <Nav className='cClear'>
                     <NavItem className='left active'>首页</NavItem>
                     <NavItem className='left'>下载App</NavItem>
-                    <NavItem className='right'>登陆</NavItem>
+                    <NavItem className='right'>登录</NavItem>
                     <NavItem className='right'>
-                        <i className='iconfont'>&#xe636;</i>
+                        <i className='iconfont switch-fb'>&#xe636;</i>
                     </NavItem>
                     <SearchWrapper>
                         <CSSTransition
@@ -91,6 +94,7 @@ class Header extends Component {
                         写文章</Button>
                     <Button className='reg'>注册</Button>
                 </Addition>
+                </Layout>
             </HeaderWrapper>
         )
     }

@@ -6,9 +6,13 @@ export const HeaderWrapper = styled.div`
     height: 56px;
     border-bottom: 1px solid #f0f0f0;
 `;
-export const Logo = styled.a.attrs({
-    href: '/'
-})`
+export const Layout = styled.div`
+    position:relative;
+    min-width: 768px;
+    max-width: 1440px;
+    margin: 0 auto;
+`;
+export const Logo = styled.div`
     position: absolute;
     width: 100px;
     height: 56px;
@@ -21,7 +25,6 @@ export const Logo = styled.a.attrs({
 export const Nav = styled.div`
     width: 960px;
     height: 100%;
-    padding-right: 70px;
     margin: 0 auto;
     box-sizing: border-box;
 `;
@@ -40,6 +43,7 @@ export const NavItem = styled.div`
     &.active{
       color:#ea6f5a;
     }
+    
 `;
 export const NavSearch = styled.input.attrs({
     placeholder: '搜索'
@@ -101,6 +105,7 @@ export const Button = styled.div`
 export const SearchWrapper = styled.div`
   position: relative;
   float: left;
+  z-index: 2;
   .zoom{
       position: absolute;
       right: 5px;
@@ -124,6 +129,7 @@ export const SearchInfo = styled.div`
   width: 240px;
   padding: 0 20px;
   box-shadow: 0 0 8px rgba(0,0,0,.2);
+  background: #fff;
 `;
 export const SearchInfoTitle=styled.div`
   margin-top: 20px;

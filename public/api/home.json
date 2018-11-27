@@ -1,0 +1,164 @@
+{
+  "success": true,
+  "data": {
+    "homeBanner": [
+      {
+        "id": 2323,
+        "title": "简书钻",
+        "linkUrl": "https://www.jianshu.com/fp/notice/now?utm_medium=index-banner&amp;utm_source=desktop",
+        "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4579/0e3caa20d3d30658dc4b393d1ea105baa7e78248.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+      },
+      {
+        "id": 2623,
+        "title": "简书助力",
+        "linkUrl": "https://www.jianshu.com/p/8b8f7c5c2088?utm_medium=index-banner&amp;utm_source=desktop",
+        "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4582/2db83cc6f08d13c2f83002238ca32b784266c4fb.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+      },
+      {
+        "id": 2423,
+        "title": "简书奖金",
+        "linkUrl": "https://www.jianshu.com/p/b866164607e5?utm_medium=index-banner&amp;utm_source=desktop",
+        "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4552/532152a690ad5a98d1c22eb48a316ca7ff428970.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+      }
+    ],
+    "topicList": [
+      {
+        "id": 1,
+        "title": "社会热点",
+        "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 2,
+        "title": "手手绘",
+        "imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 3,
+        "title": "新闻馆",
+        "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 4,
+        "title": "舆论",
+        "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 5,
+        "title": "打碗碗花",
+        "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 6,
+        "title": "时间管理",
+        "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 7,
+        "title": "思维导图",
+        "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "有些话，止于唇，藏于心",
+        "desc": "有些话我们止于唇，因为心事不是对谁都能说，有时候我们假装快乐，因为眼泪不是对谁都能落。心里的话，只想说给知心的人听，内心的脆弱，只想找一个疼你的...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/6621295-9865c15796708217.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 2,
+        "title": "日食记：用自己喜欢的方式吃一生",
+        "desc": "我一直都认为，吃，是一个人一生中最重要的事，没有之一。 从小我就很喜欢吃，我妈告诉我，在我一岁的时候因为偷吃了一斤苹果还拉了肚子。 食物对于每个...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/13624898-011f413c3b1c31c8?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 3,
+        "title": "人生五问，追问与反思",
+        "desc": "所谓5why分析法，又称\"5问法\"，也就是对一个问题点连续以5个\"为什么\"来自问，以追究其根本原因。虽为5个为什么，但使用时不限定只做\"5次为什...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/9076470-156fc477aca96887.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 4,
+        "title": "胡歌12年后首谈车祸：既然活下来了，就不能白白活着",
+        "desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": 1,
+        "url": "https://www.jianshu.com/trending/weekly?utm_medium=index-banner-s&utm_source=desktop",
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+      },
+      {
+        "id": 2,
+        "url": "https://www.jianshu.com/trending/monthly?utm_medium=index-banner-s&utm_source=desktop",
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+      },
+      {
+        "id": 3,
+        "url": "https://www.jianshu.com/mobile/books?category_id=284",
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+        "id": 4,
+        "url": "https://www.jianshu.com/publications",
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      },
+      {
+        "id": 5,
+        "url": "https://www.jianshu.com/c/e048f1a72e3d?utm_medium=index-banner-s&utm_source=desktop",
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+      }
+    ],
+    "users": [
+      {
+        "id": 5205317,
+        "slug": "dbfdce352c0d",
+        "nickname": "遛遛心情的溜妈",
+        "avatar_source": "http://upload.jianshu.io/users/upload_avatars/5205317/1179d71b-e7c6-4023-89e8-bba25f88272b.jpg",
+        "total_likes_count": 2136,
+        "total_wordage": 537088,
+        "is_following_user": false
+      },
+      {
+        "id": 6652326,
+        "slug": "addcee2f9c78",
+        "nickname": "没文化的野狐狸",
+        "avatar_source": "http://upload.jianshu.io/users/upload_avatars/6652326/ba6106f4-20eb-4735-885d-561083bd4e55.jpg",
+        "total_likes_count": 4518,
+        "total_wordage": 255595,
+        "is_following_user": false
+      },
+      {
+        "id": 7290998,
+        "slug": "4062aaeba322",
+        "nickname": "念远怀人",
+        "avatar_source": "http://upload.jianshu.io/users/upload_avatars/7290998/f64f5ef0-def0-4b26-beb3-b9d88f060ba0.jpg",
+        "total_likes_count": 6953,
+        "total_wordage": 608942,
+        "is_following_user": false
+      },
+      {
+        "id": 3627484,
+        "slug": "c5580cc1c3f4",
+        "nickname": "简书大学堂",
+        "avatar_source": "http://upload.jianshu.io/users/upload_avatars/3627484/eb973bb9-37ba-4d07-acec-850c0a66d1bb.png",
+        "total_likes_count": 26624,
+        "total_wordage": 1457522,
+        "is_following_user": false
+      },
+      {
+        "id": 3730494,
+        "slug": "ffc565d738a3",
+        "nickname": "格列柯南",
+        "avatar_source": "http://upload.jianshu.io/users/upload_avatars/3730494/4a86a2a7-d5b9-47f1-969a-d8ef4711488b.jpg",
+        "total_likes_count": 15387,
+        "total_wordage": 659360,
+        "is_following_user": false
+      }
+    ],
+    "total_count": 5349
+  }
+}
+

@@ -47,4 +47,24 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-`
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #333;
+    background-color: transparent;
+}
+/*cClear*/
+.cClear {
+  *zoom: 1;
+}
+.cClear:after,
+.cClear:before {
+  content: "";
+  display: block;
+  height: 0;
+  visibility: hidden;
+  clear: both;
+  font-size: 0;
+}
+`;
